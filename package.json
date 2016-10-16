@@ -1,0 +1,24 @@
+{
+  "name": "fromchile",
+  "version": "1.0.0",
+  "description": "A Phaser HTML5 Game",
+  "main": "index.js",
+  "scripts": {
+    "pre-install": "npm install -g grunt-cli",
+    "lint": "standard src/**/*.js"
+  },
+  "author": "@ns4lin4s @gnzandrs",
+  "license": "MIT",
+  "devDependencies": {
+    "babel-preset-es2015": "^6.16.0",
+    "babelify": "^7.3.0",
+    "grunt": "^1.0.1",
+    "grunt-browserify": "^5.0.0",
+    "grunt-contrib-clean": "^1.0.0",
+    "grunt-contrib-connect": "^1.0.2",
+    "grunt-contrib-uglify": "^2.0.0",
+    "grunt-contrib-watch": "^1.0.0",
+    "grunt-targethtml": "^0.2.6",
+    "standard": "^8.4.0"
+  }
+}
