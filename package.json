@@ -9,11 +9,11 @@
   },
   "author": "@ns4lin4s @gnzandrs",
   "license": "MIT",
-  "repository":{
+  "repository": {
     "type": "git",
     "url": "https://github.com/sublimelab/fromchile.git"
   },
-  "dependencies":{
+  "dependencies": {
     "phaser": "^2.6.2"
   },
   "devDependencies": {
